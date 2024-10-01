@@ -13,13 +13,13 @@ To write a program to implement the the Logistic Regression Model to Predict the
 3. Find the null and duplicate values.
 4. Using logistic regression find the predicted values of accuracy , confusion matrices.
 5. Display the results.
-6. 
+
 ## Program:
 ```
 
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: V RAKSHA DHARANIKA 
-RegisterNumber:  212223230167
+Developed by    : V RAKSHA DHARANIKA 
+RegisterNumber  : 212223230167
 
 ```
 ```py
